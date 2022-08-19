@@ -41,6 +41,8 @@ The dataset contains following columns:
 # Introduction:
 Netflix’s recommendation system helps them increase their popularity among service providers as they help increase the number of items sold, offer a diverse selection of items, increase user satisfaction, as well as user loyalty to the company, and they are very helpful in getting a better understanding of what the user wants. Then it’s easier to get the user to make better decisions from a wide variety of movie products.
 
+With over 139 million paid subscribers (total viewer pool -300 million) across190 countries, 15,400 titles across its regional libraries and 112 Emmy Award Nominations in 2018 — Netflix is the world’s leading Internet television network and the most-valued largest streaming service in the world.
+
 # Steps Involved:
 1. EDA
 2. Data Preprocessing
